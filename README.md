@@ -11,11 +11,13 @@ This is how the share points rewards system works in short, a player accumulates
 </p>
   
 <h3>Social Developer</h3>
-<p>
+<p>The Social Developers will look to create a futuristic social media platform which includes a monoGames Social Lounge (monoSol), monoGames Social Media (monoMedia) and a Faction Lounge for each of the 12 Blockchains a part of monoGames which will interconnect with all parts of monoGames especial the Games and Sustainability part of monoGames to share experiences players have with fellow team mates, the monoGames community and the world. You will need to apply or be invited to be part of the Social Developer Team. As mentioned in the <a href="https://github.com/369gtech/Tokenomics">Tokenomics</a> of monoGames, there is a daily air drop of approximately 9,863,013.6 that last 5 years to all Social Developers to create and maintain the Social aspects of monoGames. 
 </p>
   
 <h3>Sustainable Developer</h3>
-<p></p>
+<p>If your a strong believer in Sustainability like I am (Founder) then this is a dream job come true. I have a lot of Sustainable projects that I would love to start and be part of monoGames. One of the areas I see Sustainability in monoGames is where monoGames partners with sustainable products and services to interact with the monoGames Metaverse and The Real World. These partnership will eventually lead to long term sponsorship deals with monoGames in several ways. If we look at sustainable energy, monoGames might partner with Tesla where Tesla sponsors monoGames and in return monoGames uses Tesla logo's on all our NFT energy devices you need to power up buildings, vehicles, portals, etc while also giving player rewards for using those NFT energy devices. We also want to go one step further, if anyone can prove they own any Tesla product or service through a Qcode verification system. monoGames would reward them for those devices too. All sponsorship deals would go back into monoGames ecosystem to keep it sustainable. So there are many opportunities to build the infrastructure to building these ideas into reality. You will need to apply or be invited to be part of the Social Developer Team. As mentioned in the <a href="https://github.com/369gtech/Tokenomics">Tokenomics</a> of monoGames, there is a daily air drop of approximately 9,863,013.6 that last 5 years to all Sustainable Developers to create and maintain these Sustainable Projects. 
+  
+</p>
 
 <h3>Summory</h3>
 <p>
